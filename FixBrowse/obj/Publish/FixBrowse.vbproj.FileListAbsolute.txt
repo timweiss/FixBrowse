@@ -1,0 +1,11 @@
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\bin\Publish\FixBrowse.exe.config
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\bin\Publish\FixBrowse.exe
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\bin\Publish\FixBrowse.pdb
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\bin\Publish\FixBrowse.xml
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.Form1.resources
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.Resources.resources
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.Settings.resources
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.vbproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.exe
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.xml
+c:\users\tim\documents\visual studio 2013\Projects\FixBrowse\FixBrowse\obj\Publish\FixBrowse.pdb
